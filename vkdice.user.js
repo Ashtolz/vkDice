@@ -110,7 +110,7 @@ function appendStyle(){
   var s = document.createElement('style');
   s.innerHTML = '.dicecond{ color: grey; }';
   s.innerHTML+= '.dice{ color: green; font-weight: bold;}';
-  s.innerHTML+= '.diceDone{ cursor: pointer;}';
+  s.innerHTML+= '.im_out_dice_done{ cursor: pointer;}';
   s.innerHTML+= '.equal{ color: green;font-weight: bold;}';
   document.head.appendChild(s);
 }
