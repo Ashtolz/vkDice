@@ -4,6 +4,7 @@
 // @description   Позволяет бросать дайсы в диалогах вконтакте. roll(3d6+2) - бросить 3 раза шестигранный куб с модификатором 2
 // @include       *vk.com/im*
 // @version       1.1
+// @updateURL     https://github.com/Ashtolz/vkDice/raw/master/vkdice.user.js
 // ==/UserScript==
 
 
